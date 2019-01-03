@@ -1,6 +1,6 @@
 {
     "require": {
-        "ext-mcrypt": "*",
+        "ext-mbstring": "*",
 	"ext-gd": "*",
 	"ext-exif": "*"
     }
