@@ -13,7 +13,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "ext-mcrypt": "*",
+        "ext-mbstring": "*",
         "ext-gd": "*",
         "ext-exif": "*"
     },
