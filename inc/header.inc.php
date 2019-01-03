@@ -22,4 +22,4 @@ require_once('params.inc.php');
 bx_check_maintenance_mode (true);
 bx_check_minimal_requirements(true);
 bx_check_redirect_to_correct_hostname(true);
-bx_check_redirect_to_remove_install_folder(true)
+bx_check_redirect_to_remove_install_folder(true);
