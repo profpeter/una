@@ -2,6 +2,6 @@
     "require": {
 	"ext-gd": "*",
 	"ext-exif": "*",
-	"ext-mbstring": "*"
+	"php-mbstring": "*"
     }
 }
