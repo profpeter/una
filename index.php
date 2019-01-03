@@ -8,6 +8,7 @@
  */
 error_reporting(E_ALL);
 ini_set("display_errors", 1);
+.
 if (!file_exists("./inc/header.inc.php")) {
     // this is dynamic page - send headers to not cache this page
     $now = gmdate('D, d M Y H:i:s') . ' GMT';
