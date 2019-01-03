@@ -2,7 +2,7 @@
 
 define('BX_DOL', 1);
 
-define('BX_DOL_URL_ROOT', 'https://dashboard.heroku.com/'); ///< site url
+define('BX_DOL_URL_ROOT', 'https://coreplatform.herokuapp.com//'); ///< site url
 
 define('BX_DIRECTORY_PATH_ROOT', '/app/'); ///< site path
 
