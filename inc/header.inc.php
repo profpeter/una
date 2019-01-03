@@ -4,7 +4,7 @@ define('BX_DOL_URL_ROOT', 'https://coreplatform.herokuapp.com//'); ///< site url
 define('BX_DIRECTORY_PATH_ROOT', '/app/'); ///< site path
 define('BX_DATABASE_HOST', 'us-cdbr-iron-east-01.cleardb.net'); ///< db host
 define('BX_DATABASE_SOCK', ''); ///< db socket
-define('BX_DATABASE_PORT', ''); ///< db port
+define('BX_DATABASE_PORT', '50473'); ///< db port
 define('BX_DATABASE_USER', 'b6af8be58cceff'); ///< db user
 define('BX_DATABASE_PASS', '127e15b3'); ///< db password
 define('BX_DATABASE_NAME', 'heroku_1d3a86772ffdce1'); ///< db name
