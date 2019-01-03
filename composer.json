@@ -1,7 +1,7 @@
 {
     "require": {
         "ext-mcrypt": "*",
-		"ext-gd": "*",
-		"ext-exif": "*"
+	"ext-gd": "*",
+	"ext-exif": "*"
     }
 }
